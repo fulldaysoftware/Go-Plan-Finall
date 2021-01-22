@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">Go Plan</string>
+    <string name="save">Save</string>
+    <string name="new_task">New Task</string>
+    <string name="tasks">Go Plan</string>
+    <string name="go_plan">Go Plan</string>
+    <string name="greet">Wake up early and start coding</string>
+</resources>
