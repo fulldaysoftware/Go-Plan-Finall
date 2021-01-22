@@ -20,7 +20,7 @@
             android:layout_centerHorizontal="true"
             android:paddingStart="8dp"
             android:buttonTint="@android:color/holo_green_dark"
-            tools:text="@string/greet"/>
+            tools:text="Wake up early and start coding"/>
 
     </RelativeLayout>
 
